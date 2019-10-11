@@ -21,4 +21,4 @@ $ npm run ui
 
 ## License
 
-See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
+This project is open source and available under the [MIT LICENSE](LICENSE)
